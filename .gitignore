@@ -1,0 +1,15 @@
+# Environment
+.env
+.env.*
+keystores/
+*.key
+*.pem
+out/
+cache/
+lib/
+broadcast/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+Thumbs.db
